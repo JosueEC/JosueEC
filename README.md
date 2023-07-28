@@ -1,4 +1,4 @@
-<img align="right" src="https://media.licdn.com/dms/image/D4E16AQEeS4fuqZlM_w/profile-displaybackgroundimage-shrink_350_1400/0/1686581209612?e=1692835200&v=beta&t=MReDARvu57DMYCBwnE9KwC4wZ77mi3nXyOSC2qYLsCs" />
+<img align="right" src="https://media.licdn.com/dms/image/D4E16AQFBCoKhtfi_iQ/profile-displaybackgroundimage-shrink_350_1400/0/1690483143382?e=1695859200&v=beta&t=9WuvSsql6Z0cwzQM6EDqlgO3aCdhi85wZMXgTYnHGJE" />
 
 <h2>Hi, I'm <a href='#'>Josue</a></h2>
 <p><strong>Backend Developer</strong> with a background as a Computer Systems Engineer, with experience in web application development. I am working on some side projects with <strong>PERN</strong></p>
