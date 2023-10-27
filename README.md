@@ -1,4 +1,4 @@
-<img align="right" src="https://media.licdn.com/dms/image/D4E16AQEohuzDQ9H1zA/profile-displaybackgroundimage-shrink_350_1400/0/1696373927880?e=1701907200&v=beta&t=PfVBz_CeK5CH_BPEMW7r-yU_-NGRZZolmJDVdRZ1yvQ" />
+<img align="right" src="https://media.licdn.com/dms/image/D5616AQGjsJXKC5hk4g/profile-displaybackgroundimage-shrink_350_1400/0/1698271211585?e=1703721600&v=beta&t=CFRWmZsYcjuCASKnOFj3tGxbGPJ1L5VR0dOsCxXs5Dk" />
 
 <h2><strong>Josue Evangelista Cruz</strong></h2>
 <p><strong>Desarrollador Web</strong>, con formación como Ingeniero en Sistemas Computacionales. Especializado en <strong>backend</strong> con dominio avanzado en <strong> NodeJS, JavaScript, TypeScript, Express, NestJS, PostgreSQL, MongoDB y ReactJS.</strong> Con dominio intermedio en <strong>Docker, Docker-compose</strong></p>
