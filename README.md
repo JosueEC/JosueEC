@@ -1,8 +1,7 @@
-<img align="right" src="https://media.licdn.com/dms/image/D5616AQGjsJXKC5hk4g/profile-displaybackgroundimage-shrink_350_1400/0/1698271211585?e=1703721600&v=beta&t=CFRWmZsYcjuCASKnOFj3tGxbGPJ1L5VR0dOsCxXs5Dk" />
+<img align="right" src="https://media.licdn.com/dms/image/D4E16AQHk3H1qYwsqzA/profile-displaybackgroundimage-shrink_350_1400/0/1698964937532?e=1704326400&v=beta&t=HE_C9uB3TPi2hUj2gDXFTC6V0QqbINtPbbRLoSnsMjk" />
 
 <h2><strong>Josue Evangelista Cruz</strong></h2>
-<p><strong>Desarrollador Web</strong>, con formación como Ingeniero en Sistemas Computacionales. Especializado en <strong>backend</strong> con dominio avanzado en <strong> NodeJS, JavaScript, TypeScript, Express, NestJS, PostgreSQL, MongoDB y ReactJS.</strong> Con dominio intermedio en <strong>Docker, Docker-compose</strong></p>
-<p>Tambien tengo conocimientos basicos-intermedios en <strong>Java, Spring-Boot y Hibernate/JPA</strong></p>
+<p><strong>Desarrollador FullStack</strong>, con formación como Ingeniero en Sistemas Computacionales. Especializado en <strong>backend</strong> con dominio avanzado en <strong> Java, Spring-Boot, Hibernate/JPA, NodeJS, JavaScript, TypeScript, Express, NestJS, PostgreSQL, MongoDB y ReactJS.</strong> Con dominio intermedio en <strong>Docker, Docker-compose</strong></p>
 <p><a href="https://www.linkedin.com/in/josue-evangelista-cruz-213461264/"><img src="https://img.shields.io/badge/-@JosueEC-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/josue-evangelista-cruz-213461264/" alt="LinkedIn Badge"></a>  <img src="https://img.shields.io/badge/-josueev.cruz@gmail.com-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Gmail&amp; alt="Gmail Badge"></p>
 <ul>
 <li>🔭 Actualmente estoy desarrollando <strong>followmyjob.com</strong></li>
@@ -12,6 +11,9 @@
 </ul>
 <h2>Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <p align="left">
+<img width ='36px' src ='https://skills.thijs.gg/icons?i=java'>
+<img width ='36px' src ='https://skills.thijs.gg/icons?i=spring'>
+<img width ='36px' src ='https://skills.thijs.gg/icons?i=hibernate'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=nodejs'>
 <img width ='38px' src ='https://skills.thijs.gg/icons?i=ts'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=nest'>
@@ -21,8 +23,6 @@
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=react'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=redux'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=tailwind'>
-<img width ='36px' src ='https://skills.thijs.gg/icons?i=java'>
-<img width ='36px' src ='https://skills.thijs.gg/icons?i=spring'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=html'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=css'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=js'>
