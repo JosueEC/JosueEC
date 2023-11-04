@@ -16,6 +16,7 @@
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=hibernate'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=nodejs'>
 <img width ='38px' src ='https://skills.thijs.gg/icons?i=ts'>
+<img width ='36px' src ='https://skills.thijs.gg/icons?i=js'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=nest'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=express'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=postgresql'>
@@ -25,7 +26,6 @@
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=tailwind'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=html'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=css'>
-<img width ='36px' src ='https://skills.thijs.gg/icons?i=js'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=docker'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=postman'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=git'>
