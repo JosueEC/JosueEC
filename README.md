@@ -4,10 +4,12 @@
 <p><strong>Desarrollador Backend</strong>, con formación como Ingeniero en Sistemas Computacionales. Mi objetivo es impulsar empresas en el logro de objetivos y máximo potencial en línea a través de mis habilidades como desarrollador, comprometido con el aprendizaje y aportar valor significativo a equipos y proyectos.</p>
 <p>No dudes en contactarme. Estoy seguro de que puedo contribuir de manera significativa a tu equipo de desarrollo.</p>
 <p><a href="https://www.linkedin.com/in/josue-evangelista-cruz-213461264/"><img src="https://img.shields.io/badge/-@JosueEC-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/josue-evangelista-cruz-213461264/" alt="LinkedIn Badge"></a>  <img src="https://img.shields.io/badge/-josueev.cruz@gmail.com-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Gmail&amp; alt="Gmail Badge"></p>
-<ul>
+<ul style="list-style:none">
 <li>🔹 <strong>Lenguajes:</strong> JavaScript, TypeScript, Java, SQL</li>
-<li>🔹 <strong>Bases de Datos:</strong> PostgreSQL, MongoDB</li>
+<li>🔹 <strong>Bases de Datos:</strong> PostgreSQL, MySQL, MongoDB</li>
 <li>🔹 <strong>DevOps:</strong> Docker, Docker-Compose</li>
+<li>🔹 <strong>Agentes de Mensajes:</strong> RabbitMQ</li>
+<li>🔹 <strong>Arquitecturas:</strong> RESTful, GraphQL, WebSocket, Microservicios, gRPC</li>
 <li>🔹 <strong>Frameworks y librerias Backend:</strong> NestJS, ExpressJS, Spring-Boot</li>
 <li>🔹 <strong>Frameworks y librerias Frontend:</strong> ReactJS, Redux, ChakraUI, MaterialUI, ReactPrime</li>
 <li>🔹 <strong>ORM´s:</strong> TypeORM, Mongoose, Sequelize, Hibernate</li>
@@ -15,7 +17,18 @@
 <li>🔹 <strong>Ingles:</strong> B1</li>
 </ul>
 <br>
-<ul>
+<ul style="list-style:none">
+<li>🔸 Diseño, desarrollo, mantenimiento y gestión de APIs RESTful escalables con NestJS.</li>
+<li>🔸 Enfoque en la aplicación de buenas practicas, patrones de diseño, POO y principios SOLID.</li>
+<li>🔸 Desarrollo tanto de Arquitecturas Monolíticas como de Microservicios con NestJS, RabbitMQ y Docker.</li>
+<li>🔸 Capacidad de definir, levantar y gestionar containers de Docker a traves de Docker-Compose tanto en arquitecturas Monolíticas como de Microservicios.</li>
+<li>🔸 Implementar capa de seguridad en la aplicación mediante autenticación y autorización con JWT.</li>
+<li>🔸 Experiencia en integración de servicios externos como Mercado Pago, OpenAI API, WhatsApp Cloud API, etc.</li>
+<li>🔸 Capacidad de desarrollar e implementar persistencia de datos a traves de TypeORM para bases de datos SQL utilizando PostgreSQL o MySQL como motores, así como también persistencia en bases de datos NoSQL usando Mongoose con MongoDB como motor.</li>
+<li>🔸 Experiencia trabajando en equipo utilizando GIT para el versionado de proyectos.</li>
+</ul>
+<br>
+<ul style="list-style:none">
 <li>🔸 Actualmente estoy desarrollando <strong>followmyjob.com</strong></li>
 <li>🔸 Aprendiendo acerca de <strong>Microservicios, AWS, Patrones de Diseño y Arquitectura de Software</strong></li>
 <li>🔸 Todos mis Side Projects estan disponibles en 👉<a href="https://josue-cruz.vercel.app/">JosueCruz</a>.</li>
@@ -28,8 +41,10 @@
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=java'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=nest'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=express'>
+<img width ='36px' src ='https://skills.thijs.gg/icons?i=graphql'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=spring'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=postgresql'>
+<img width ='36px' src ='https://skills.thijs.gg/icons?i=mysql'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=mongodb'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=hibernate'>
 <img width ='36px' src ='https://skills.thijs.gg/icons?i=docker'>
