@@ -8,13 +8,13 @@
 <ul style="list-style:none">
   <li><strong>Lenguajes:</strong> JavaScript, TypeScript, Python, SQL</li>
   <li><strong>Bases de Datos:</strong> PostgreSQL, MongoDB</li>
-  <li><strong>Cloud(AWS):</strong> Serverless, Lambda, API Gateway, S3, EC2, CloudFormation</li>
+  <li><strong>Cloud (AWS):</strong> EC2, IAM, S3, RDS, ElastiCache, API Gateway, Lambda, ECR, ECS</li>
   <li><strong>DevOps:</strong> Docker, Docker-Compose, Kubernetes, Jenkins, Sonarqube</li>
   <li><strong>Mensajería:</strong> RabbitMQ</li>
   <li><strong>Arquitecturas:</strong> RESTful, GraphQL, WebSocket, Microservicios, gRPC</li>
-  <li><strong>Backend:</strong> NestJS, ExpressJS, Spring-Boot</li>
+  <li><strong>Backend:</strong> NestJS, ExpressJS</li>
   <li><strong>Frontend:</strong> ReactJS, Redux</li>
-  <li><strong>ORM´s:</strong> TypeORM, Mongoose, Sequelize, Hibernate</li>
+  <li><strong>ORM´s:</strong> TypeORM, Mongoose, Sequelize</li>
   <li><strong>Ingles:</strong> B1</li>
 </ul>
 <br>
